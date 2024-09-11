@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PositionManagerMock", "PositionManagerMock\PositionManagerMock.csproj", "{E01C0503-8BED-4462-92BE-10D0607D11CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrainsInterfaces", "GrainsInterfaces\GrainsInterfaces.csproj", "{BD3C4869-A2B6-4F1F-B953-1A0541AF52D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E01C0503-8BED-4462-92BE-10D0607D11CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E01C0503-8BED-4462-92BE-10D0607D11CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E01C0503-8BED-4462-92BE-10D0607D11CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E01C0503-8BED-4462-92BE-10D0607D11CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD3C4869-A2B6-4F1F-B953-1A0541AF52D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD3C4869-A2B6-4F1F-B953-1A0541AF52D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD3C4869-A2B6-4F1F-B953-1A0541AF52D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD3C4869-A2B6-4F1F-B953-1A0541AF52D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE1C798F-0E0E-44CA-AC8D-4117F3A04FC6}
+	EndGlobalSection
+EndGlobal
